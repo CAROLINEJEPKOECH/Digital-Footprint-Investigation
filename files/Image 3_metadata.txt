@@ -1,0 +1,23 @@
+ExifTool Version Number         : 13.55
+File Name                       : Image 3.jpg
+Directory                       : .
+File Size                       : 180 kB
+File Modification Date/Time     : 2021:02:28 20:46:35+03:00
+File Access Date/Time           : 2026:11:05 23:36:08+03:00
+File Inode Change Date/Time     : 2026:11:05 23:33:50+03:00
+File Permissions                : -rwxrwx---
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1280
+Image Height                    : 960
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1280x960
+Megapixels                      : 1.2

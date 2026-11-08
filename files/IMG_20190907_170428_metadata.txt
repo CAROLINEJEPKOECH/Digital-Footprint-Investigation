@@ -1,0 +1,80 @@
+ExifTool Version Number         : 13.55
+File Name                       : IMG_20190907_170428.jpg
+Directory                       : .
+File Size                       : 1295 kB
+File Modification Date/Time     : 2021:02:28 00:09:59+03:00
+File Access Date/Time           : 2026:11:05 17:19:28+03:00
+File Inode Change Date/Time     : 2026:11:05 16:42:37+03:00
+File Permissions                : -rwxrwx---
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Description               : 
+Make                            : TECNO
+Camera Model Name               : TECNO K7
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : MediaTek Camera Application
+Modify Date                     : 2019:09:07 17:04:29
+Y Cb Cr Positioning             : Co-sited
+Exposure Time                   : 1/13
+F Number                        : 2.8
+Exposure Program                : Not Defined
+ISO                             : 1027
+Exif Version                    : 0220
+Date/Time Original              : 2019:09:07 17:04:29
+Create Date                     : 2019:09:07 17:04:29
+Components Configuration        : Y, Cb, Cr, -
+Exposure Compensation           : 0
+Metering Mode                   : Center-weighted average
+Light Source                    : Daylight
+Flash                           : No Flash
+Focal Length                    : 3.5 mm
+Sub Sec Time                    : 46
+Sub Sec Time Original           : 46
+Sub Sec Time Digitized          : 46
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 1920
+Exif Image Height               : 2560
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Exposure Mode                   : Auto
+White Balance                   : Manual
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+GPS Version ID                  : 2.2.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 14:04:29
+GPS Processing Method           : FUSED
+GPS Date Stamp                  : 2019:09:07
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1280
+Thumbnail Length                : 15618
+JFIF Version                    : 1.01
+Image Width                     : 1920
+Image Height                    : 2560
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Aperture                        : 2.8
+Image Size                      : 1920x2560
+Megapixels                      : 4.9
+Shutter Speed                   : 1/13
+Create Date                     : 2019:09:07 17:04:29.46
+Date/Time Original              : 2019:09:07 17:04:29.46
+Modify Date                     : 2019:09:07 17:04:29.46
+Thumbnail Image                 : (Binary data 15618 bytes, use -b option to extract)
+GPS Altitude                    : 2127 m Above Sea Level
+GPS Date/Time                   : 2019:09:07 14:04:29Z
+GPS Latitude                    : 0 deg 31' 58.10" N
+GPS Longitude                   : 35 deg 16' 52.43" E
+Focal Length 35mm Equiv         : 3.5 mm
+GPS Position                    : 0 deg 31' 58.10" N, 35 deg 16' 52.43" E
+Light Value                     : 3.3

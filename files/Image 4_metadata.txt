@@ -1,0 +1,25 @@
+ExifTool Version Number         : 13.55
+File Name                       : Image 4.png
+Directory                       : .
+File Size                       : 25 MB
+File Modification Date/Time     : 2026:11:05 23:27:17+03:00
+File Access Date/Time           : 2026:11:05 23:37:30+03:00
+File Inode Change Date/Time     : 2026:11:05 23:33:20+03:00
+File Permissions                : -rwxrwx---
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 3120
+Image Height                    : 4160
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Gamma                           : 2.2
+Pixels Per Unit X               : 3779
+Pixels Per Unit Y               : 3779
+Pixel Units                     : meters
+Image Size                      : 3120x4160
+Megapixels                      : 13.0
